@@ -1,3 +1,3 @@
 ## Zermelo's Navigation Problem
 
-My Bachelor Thesis.. Work in progress.
+My Bachelor Thesis for mathematics. Work in progress.
